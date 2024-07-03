@@ -1,0 +1,20 @@
+/.metadata/
+# Arquivos de Log
+*.log
+
+# Diretórios de Compilação
+/build/
+out/
+
+# Dependências
+/.gradle/
+/target/
+
+# Configurações de IDE
+/.idea/
+/*.iml
+/.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
